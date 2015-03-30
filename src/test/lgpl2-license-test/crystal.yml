@@ -1,0 +1,9 @@
+name: lgpl2-license-test
+version: 0.1.0
+description: lgpl2-license test
+
+copyright: 2015 Example, Inc.
+
+generators:
+  lgpl2-license:
+    version: latest
